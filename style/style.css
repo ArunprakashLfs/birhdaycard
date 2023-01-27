@@ -1,13 +1,13 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
 }
-body {
+body{
     background-color: brown;
 }
-.card {
-    width: 400px;
+.card{
+    width: 350px;
     min-height: 600px;
     background-color: antiquewhite;
 }
@@ -15,14 +15,20 @@ body {
     text-align: center;
 }
 .personals{
-    width: 100px;
-    min-height: 200px;
+    width: 200px;
+    min-height: 300px;
 }
 .people{
-    width: 50px;
+    width: 40px;
     min-height: 50px;
+    text-align: center;
 }
 .peopleimg{
-    width: 30px;
-    min-height: 30px;
+    width: 20px;
+    height: 30px;
+}
+img{
+    border-radius: 12px;
+    height: 60px;
+    width: 60px;
 }
