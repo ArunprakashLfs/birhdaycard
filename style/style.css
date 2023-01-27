@@ -6,3 +6,23 @@
 body {
     background-color: brown;
 }
+.card {
+    width: 400px;
+    min-height: 600px;
+    background-color: antiquewhite;
+}
+.title{
+    text-align: center;
+}
+.personals{
+    width: 100px;
+    min-height: 200px;
+}
+.people{
+    width: 50px;
+    min-height: 50px;
+}
+.peopleimg{
+    width: 30px;
+    min-height: 30px;
+}
