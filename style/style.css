@@ -4,12 +4,16 @@
     box-sizing: border-box;
 }
 body{
-    background-color: brown;
+    background-color: rgba(127, 127, 127, 56%);
+    padding: 300px 400px 500px 300px;
 }
 .card{
     width: 350px;
     min-height: 600px;
     background-color: antiquewhite;
+    border: 3px;
+    margin: auto;
+    padding: auto;
 }
 .title{
     text-align: center;
@@ -22,10 +26,6 @@ body{
     width: 40px;
     min-height: 50px;
     text-align: center;
-}
-.peopleimg{
-    width: 20px;
-    height: 30px;
 }
 img{
     border-radius: 12px;
